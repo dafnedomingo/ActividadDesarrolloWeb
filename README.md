@@ -1,6 +1,6 @@
 # ActividadDesarrolloWeb
 
-Práctica: Mi primer repo colaborativo en GitHub
+Práctica: Mi primer repositorio colaborativo en GitHub
 
 Objetivo:
 Aprender a colaborar con tu equipo usando Git y GitHub de forma sencilla y real.
